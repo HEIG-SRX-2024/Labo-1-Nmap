@@ -66,7 +66,7 @@ Vous trouverez dans l’email reçu un fichier de configuration WireGuard person
 
 Une fois connecté à l’infrastructure, vous recevrez une adresse IP correspondante au réseau de test.
 
-Pour vous assurer que vous êtes connecté correctement au VPN, vous devriez pouvoir pinger l’adresse 10.1.2.2.
+Pour vous assurer que vous êtes connecté correctement au VPN, vous devriez pouvoir pinger l’adresse 10.1.2.1 ou 10.1.1.2.
 
 ### Configuration Kali Linux
 
