@@ -50,7 +50,7 @@ Puisque le but de ce travail pratique c’est de découvrir dans la mesure du po
 Juste un mot de précaution: vous allez aussi voir tous les autres ordinateurs des étudiants qui se connectent au réseau.
 C'est voulu, afin que vous puissiez aussi faire des scans sur ceux-ci.
 **Par contre, il est formellement interdit de lancer quelconque attaque sur un ordinateur d'un des élèves!**
-Si on vous demande de vous attaquer aux machines présentes dans l'infrastructure de test et que vous arrivez à en sortire, veuillez contacter immédiatement le prof ou l'assistant pour récolter des points bonus. Ce n'est pas prévu - mais cela peut arriver :)
+Si on vous demande de vous attaquer aux machines présentes dans l'infrastructure de test et que vous arrivez à en sortir, veuillez contacter immédiatement le prof ou l'assistant pour récolter des points bonus. Ce n'est pas prévu - mais cela peut arriver :)
 
 ## Connexion à l’infrastructure par WireGuard
 
