@@ -262,6 +262,6 @@ Résultat des recherches :
 
 **LIVRABLE: texte** :
 
-> Challenge: L’une des vulnérabilités sur la machine 10.1.1.2 est directement exploitable avec rien d’autre que Netcat. Est-ce que vous arrivez à le faire ?
+> Challenge: L’une des vulnérabilités sur la machine 10.1.1.3 est directement exploitable avec rien d’autre que Netcat. Est-ce que vous arrivez à le faire ?
 
 **LIVRABLE: texte** :
